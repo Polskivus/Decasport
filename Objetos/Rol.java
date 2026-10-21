@@ -1,4 +1,4 @@
-package erp.modelo;
+package modelo;
 
 /**
  * Rol de seguridad (tabla Rol). Un rol lo tienen muchos usuarios (1:N).
