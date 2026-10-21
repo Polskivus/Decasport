@@ -1,4 +1,4 @@
-package erp.modelo;
+package modelo;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
