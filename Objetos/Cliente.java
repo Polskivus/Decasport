@@ -1,4 +1,4 @@
-package erp.modelo;
+package modelo;
 
 /**
  * Cliente (tabla Cliente). Se le hacen ventas (Venta.cliente_id).
