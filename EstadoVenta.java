@@ -1,4 +1,4 @@
-package erp.modelo;
+package modelo;
 
 /**
  * Estado de una venta (Venta.estado).
