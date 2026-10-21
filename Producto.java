@@ -1,4 +1,4 @@
-package erp.modelo;
+package modelo;
 
 import java.math.BigDecimal;
 
